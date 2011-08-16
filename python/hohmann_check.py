@@ -10,3 +10,5 @@ def hohmann_dv(r1, r2, mu):
     return (vp - v1, v2 - va)
 
 # doc touch 6
+
+# cleanup 8
