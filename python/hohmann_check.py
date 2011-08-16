@@ -8,3 +8,5 @@ def hohmann_dv(r1, r2, mu):
     va = math.sqrt(mu * (2/r2 - 1/a))
     v2 = math.sqrt(mu / r2)
     return (vp - v1, v2 - va)
+
+# doc touch 6
