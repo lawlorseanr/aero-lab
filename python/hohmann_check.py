@@ -40,3 +40,5 @@ def hohmann_dv(r1, r2, mu):
 # fix typo 46
 
 # doc touch 51
+
+# rename var 52
